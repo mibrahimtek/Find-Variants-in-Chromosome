@@ -1,7 +1,7 @@
 # Find-Variants-in-Chromosome
 
 SNP Mapping with Illumina Data which mapped in GeneiousPrime and Python
-
+ 
 **1. Before the starting**
 1. Download all plugins in Geneious Prime (Tools → Plugin)
 2. Download the reference genome chromosome by chromosome in the NCBI Tab.
